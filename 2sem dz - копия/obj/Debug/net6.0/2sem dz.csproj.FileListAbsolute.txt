@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\Tatyana\Trinirovka\2sem dz\bin\Debug\net6.0\2sem dz.exe
+C:\Users\Пользователь\Desktop\Tatyana\Trinirovka\2sem dz\bin\Debug\net6.0\2sem dz.deps.json
+C:\Users\Пользователь\Desktop\Tatyana\Trinirovka\2sem dz\bin\Debug\net6.0\2sem dz.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Tatyana\Trinirovka\2sem dz\bin\Debug\net6.0\2sem dz.dll
+C:\Users\Пользователь\Desktop\Tatyana\Trinirovka\2sem dz\bin\Debug\net6.0\2sem dz.pdb
+C:\Users\Пользователь\Desktop\Tatyana\Trinirovka\2sem dz\obj\Debug\net6.0\2sem dz.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Tatyana\Trinirovka\2sem dz\obj\Debug\net6.0\2sem dz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Tatyana\Trinirovka\2sem dz\obj\Debug\net6.0\2sem dz.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Tatyana\Trinirovka\2sem dz\obj\Debug\net6.0\2sem dz.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Tatyana\Trinirovka\2sem dz\obj\Debug\net6.0\2sem dz.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Tatyana\Trinirovka\2sem dz\obj\Debug\net6.0\2sem dz.dll
+C:\Users\Пользователь\Desktop\Tatyana\Trinirovka\2sem dz\obj\Debug\net6.0\refint\2sem dz.dll
+C:\Users\Пользователь\Desktop\Tatyana\Trinirovka\2sem dz\obj\Debug\net6.0\2sem dz.pdb
+C:\Users\Пользователь\Desktop\Tatyana\Trinirovka\2sem dz\obj\Debug\net6.0\2sem dz.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\Tatyana\Trinirovka\2sem dz\obj\Debug\net6.0\ref\2sem dz.dll

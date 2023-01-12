@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\Tatyana\Trinirovka\task1DZ1\bin\Debug\net6.0\task1DZ1.exe
+C:\Users\Пользователь\Desktop\Tatyana\Trinirovka\task1DZ1\bin\Debug\net6.0\task1DZ1.deps.json
+C:\Users\Пользователь\Desktop\Tatyana\Trinirovka\task1DZ1\bin\Debug\net6.0\task1DZ1.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Tatyana\Trinirovka\task1DZ1\bin\Debug\net6.0\task1DZ1.dll
+C:\Users\Пользователь\Desktop\Tatyana\Trinirovka\task1DZ1\bin\Debug\net6.0\task1DZ1.pdb
+C:\Users\Пользователь\Desktop\Tatyana\Trinirovka\task1DZ1\obj\Debug\net6.0\task1DZ1.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Tatyana\Trinirovka\task1DZ1\obj\Debug\net6.0\task1DZ1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Tatyana\Trinirovka\task1DZ1\obj\Debug\net6.0\task1DZ1.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Tatyana\Trinirovka\task1DZ1\obj\Debug\net6.0\task1DZ1.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Tatyana\Trinirovka\task1DZ1\obj\Debug\net6.0\task1DZ1.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Tatyana\Trinirovka\task1DZ1\obj\Debug\net6.0\task1DZ1.dll
+C:\Users\Пользователь\Desktop\Tatyana\Trinirovka\task1DZ1\obj\Debug\net6.0\refint\task1DZ1.dll
+C:\Users\Пользователь\Desktop\Tatyana\Trinirovka\task1DZ1\obj\Debug\net6.0\task1DZ1.pdb
+C:\Users\Пользователь\Desktop\Tatyana\Trinirovka\task1DZ1\obj\Debug\net6.0\task1DZ1.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\Tatyana\Trinirovka\task1DZ1\obj\Debug\net6.0\ref\task1DZ1.dll
